@@ -17,7 +17,7 @@ const HeroSection = () => {
         {hero.motto} 	<br />
         <Typewriter 
           options={{
-            strings: ['Eat', 'Sleep', 'Code', 'Repeat'],
+            strings: ['Eat', 'Sleep', 'Learn', 'Repeat'],
             autoStart: true,
             loop: true,
           }}

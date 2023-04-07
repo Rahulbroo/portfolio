@@ -63,18 +63,18 @@ const Navbar = () => {
                      <li className="text-lightYellow hover:text-lightBlue ">
                          <a href="#about">About Me</a>
                      </li>
-                     <li className="text-lightYellow hover:text-lightBlue ">
+                     {/* <li className="text-lightYellow hover:text-lightBlue ">
                          <a href="#skills">Skills</a>
-                     </li>
+                     </li> */}
                      <li className="text-lightYellow hover:text-lightBlue ">
                          <a href="#experience">Experience</a>
                      </li>
-                     <li className="text-lightYellow hover:text-lightBlue ">
+                     {/* <li className="text-lightYellow hover:text-lightBlue ">
                          <a href="#projects">Projects</a>
-                     </li>
-                     <li className="text-lightYellow hover:text-lightBlue ">
+                     </li> */}
+                     {/* <li className="text-lightYellow hover:text-lightBlue ">
                          <a href="#contacts">Contact</a>
-                     </li>
+                     </li> */}
                  </ul>
              </div>
          </div>

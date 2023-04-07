@@ -8,7 +8,7 @@ const Experience = () => {
           <div className={`py-10 sm:py-12 md:py-14 lg:py-14 flex flex-col font-poppins font-semibold leading-relaxed`} id='experience'>
                <h1 className={`text-center text-4xl md:text-5xl lg:text-6xl text-lightYellow pb-16 md:pb-20 lg:pb-24`}>Experience</h1>
                <VerticalTimeline>
-                    <VerticalTimelineElement
+                    {/* <VerticalTimelineElement
                          className="vertical-timeline-element--work"
                          contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                          contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
@@ -35,7 +35,7 @@ const Experience = () => {
                          <p>
                               Oversaw a team of total 6 translators and also translated more than 50 files from English to Bengali
                          </p>
-                    </VerticalTimelineElement>
+                    </VerticalTimelineElement> */}
                     {/* <VerticalTimelineElement
                          className="vertical-timeline-element--work"
                          contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}

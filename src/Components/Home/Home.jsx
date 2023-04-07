@@ -4,8 +4,8 @@ import About from './AboutMe/About'
 import Experience from './Experience/Experience'
 import HeroSection from './HeroSection/HeroSection'
 import Skills from './Skills/Skills'
-import Projects from './Projects/Projects'
-import Contacts from './Contacts/Contacts'
+// import Projects from './Projects/Projects'
+// import Contacts from './Contacts/Contacts'
 
 const Home = () => {
 
@@ -16,8 +16,8 @@ const Home = () => {
      <About />
      <Skills />
      <Experience />
-     <Projects />
-     <Contacts />
+     {/* <Projects /> */}
+     {/* <Contacts /> */}
     </div>
   )
 }
